@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{2D4BE9D3-47F0-4720-8C4C-A9C04ADB3C05}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamMVVMCross.XamMVVMCross.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Projects\Xamarin\Research\AppSize\XamMVVMCross\XamMVVMCross\AppStart.cs" relfile="XamMVVMCross\XamMVVMCross\AppStart.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamNative.XamNative.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamNative\XamNative.Droid\PersonListViewAdapter.cs">
+    <Files>
+      <File FileName="XamForms\Droid\MainActivity.cs" Line="13" Column="87" />
+      <File FileName="XamForms\Droid\Resources\values\styles.xml" Line="25" Column="35" />
+      <File FileName="XamForms\XamForms\App.xaml.cs" Line="18" Column="1" />
+      <File FileName="XamForms\XamForms\FirstPage.xaml" Line="10" Column="15" />
+      <File FileName="XamForms\XamForms\FirstPage.xaml.cs" Line="13" Column="42" />
+      <File FileName="XamForms\XamForms\XamFormsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamForms\XamForms\ViewModels\FirstViewModel.cs" Line="38" Column="3" />
+      <File FileName="XamForms\XamForms\ViewModels\BaseViewModel.cs" Line="18" Column="1" />
+      <File FileName="XamMVVMCross\XamMVVMCross\App.cs" Line="29" Column="4" />
+      <File FileName="XamMVVMCross\Droid\MainActivity.cs" Line="8" Column="104" />
+      <File FileName="XamMVVMCross\Droid\Setup.cs" Line="21" Column="29" />
+      <File FileName="XamMVVMCross\XamMVVMCross\AppStart.cs" Line="14" Column="1" />
+      <File FileName="XamMVVMCross\XamMVVMCross\ViewModels\FirstViewModel.cs" Line="38" Column="25" />
+      <File FileName="XamMVVMCross\Droid\Properties\AndroidManifest.xml" Line="7" Column="1" />
+      <File FileName="XamMVVMCross\Droid\Resources\values\styles.xml" Line="12" Column="16" />
+      <File FileName="XamForms\Droid\Properties\AndroidManifest.xml" Line="7" Column="1" />
+      <File FileName="XamMVVMCross\Droid\packages.config" Line="19" Column="12" />
+      <File FileName="XamForms\Droid\packages.config" Line="12" Column="12" />
+      <File FileName="XamNative\XamNative.Droid\MainActivity.cs" Line="10" Column="37" />
+      <File FileName="XamNative\XamNative.Droid\packages.config" Line="12" Column="13" />
+      <File FileName="XamNative\XamNative.Droid\Resources\values\styles.xml" Line="1" Column="1" />
+      <File FileName="XamNative\XamNative\Person.cs" Line="10" Column="1" />
+      <File FileName="XamNative\XamNative.Droid\PersonListViewAdapter.cs" Line="4" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamForms.XamForms.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
